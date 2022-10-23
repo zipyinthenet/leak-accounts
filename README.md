@@ -1,6 +1,4 @@
-# leak-accounts
-
-# tools to verify leaks on accounts
+# leak-accounts - tools to verify leaks on accounts
 
 ## 1.
 https://haveibeenpwned.com/ (Solo te dice si tu cuenta ha sido o no comprometida.)
